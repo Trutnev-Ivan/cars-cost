@@ -1,5 +1,5 @@
 <?php
-
+$MERGE = "MERGE";
 require_once $_SERVER["DOCUMENT_ROOT"] . "/kernel/header.php";
 
 $APPLICATION->setTitle("TITLE");
